@@ -4,11 +4,12 @@
 
 ## Description
 
-This application allows the user to set a shedule for their workday by adding in notes and reminders for their daily tasks corresponding to the time it takes place.
+This application allows the user to set a schedule for their workday by adding in notes and reminders for their daily tasks corresponding to the time they take place.
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation is required. Users can access the site with the following link.
+https://raythomass.github.io/daily-planner/
 
 ## Usage
 
