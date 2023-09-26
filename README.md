@@ -1,10 +1,8 @@
 # daily-planner
 
-# <Your-Project-Title>
-
 ## Description
 
-This application allows the user to set a schedule for their workday by adding in notes and reminders for their daily tasks corresponding to the time they take place.
+This application allows the user to set a schedule for their workday by adding notes and reminders for their daily tasks corresponding to the time they take place.
 
 ## Installation
 
@@ -13,19 +11,15 @@ https://raythomass.github.io/daily-planner/
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Click into each divider and type what you would like to plan for that time block. Once you have typed out your desired plan, click the lock icon to save it. The plan will not disappear unless you click the lock icon again to "unlock" the plan.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Screenshot of website](images/workday-scheduler.jpg)
     ```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+https://developer.mozilla.org/en-US/docs/Web/API/Storage/removeItem
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
 
