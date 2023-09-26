@@ -13,9 +13,7 @@ https://raythomass.github.io/daily-planner/
 
 Click into each divider and type what you would like to plan for that time block. Once you have typed out your desired plan, click the lock icon to save it. The plan will not disappear unless you click the lock icon again to "unlock" the plan.
 
-    ```md
     (images/workday-scheduler.jpg)
-    ```
 
 ## Credits
 
